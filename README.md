@@ -9,7 +9,6 @@ It reproduces the main findings of Ramon-Ballesta et al. (2022) and provides qua
 ├── research-project.ipynb   # Main analysis notebook 
 ├── data/                    # Input data (see below)
 ├── figures/                 # Figures saved by the notebook
-├── requirements.txt         # Python dependencies
 └── README.md
 ```
 
